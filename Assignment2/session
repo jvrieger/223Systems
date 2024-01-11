@@ -1,0 +1,128 @@
+Script started on 2023-09-26 20:02:52-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="133" LINES="13"]
+jrieger@cozi:~/cs223/Assignment2$ exit./a.outgcc mywc.c 
+jrieger@cozi:~/cs223/Assignment2$ gcc mywc.c [7Pexit./a.out
+
+0 0 0
+jrieger@cozi:~/cs223/Assignment2$ ./a.out
+I One of the main causes of the fall of the Roa man Empire was that---lacking zero---they
+had no way to indicate successful termination of their C programs.
+-- Robert Firth 
+3 29 169
+jrieger@cozi:~/cs223/Assignment2$ ./a.outgcc mywc.c [7Pexit./a.outgcc mywc.c [7Pexit-- Robert Firthexit sessionhad no way to indicate successful termination of their C programs.[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[COne of the main causes of the fall of the Roman Empire was that–--lacking zero–--they[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[Kgcc mywc.c [4@o run sort.go[C[K [4Pcc mywc.c[C[4P./a.outOne of the main causes of the fall of the Roman Empire was that–--lacking zero–--they[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Phad no way to indicate successful termination of their C programs.[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[39P-- Robert Firthexit sessionexit[Kgcc mywc.c [4P./a.outgcc mywc.c [7Pexit-- Robert Firthexit sessionhad no way to indicate successful termination of their C programs.[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[COne of the main causes of the fall of the Roman Empire was that–--lacking zero–--they[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[Kgcc mywc.c [4@o run sort.go[C[K [2Pcode[C[C[C[C[C[C[C[C[C[2@go run[C[C[C[C[C[C[C[C[Cls[K[Kcd lab4ls[Kmv sort.go lab4ls[Kcd ..[3Plscd lab4[2P..ode stu.go ls[Kcd lab3s/[3P..ode slices.go ls[Kcd hw2[4Plscd ..[3Plscd hw2[4Plscode slices.go d ..[Klabs/[1P3ls[Kcode stu.go [7Pd ..lab4ls[Kcd ..[3Plsmv sort.go lab4ls[Kcd lab4l[Ksgo run sort.go [2Pcode[C[C[C[C[C[C[C[C[C[2@go run[C[C[C[C[C[C[C[C[C[K [4Pcc mywc.c[C[4P./a.outOne of the main causes of the fall of the Roman Empire was that–--lacking zero–--they[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Phad no way to indicate successful termination of their C programs.[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[39P-- Robert Firthexit sessionexit[Kgcc mywc.c [4P./a.out[3Pexitgcc mywc.c [4P./a.out[K./a.out < ~dkumar/cs223[K3/Lab3/tse.txt 
+
+4 14 73
+jrieger@cozi:~/cs223/Assignment2$ gcc shout.c 
+jrieger@cozi:~/cs223/Assignment2$ gcc shout.c [25@./a.out < ~dkumar/cs223/Lab3/tse.txt[C[K
+Evv eryone can be taught to scultp  pt: Michelangelo would have had to be taught not to. So it is with great programmers.Letter Frequency Counts:
+A: 8
+B: 2
+C: 3
+D: 2
+E: 10
+F: 0
+G: 5
+H: 6
+I: 4
+J: 0
+K: 0
+L: 4
+M: 3
+N: 4
+O: 9
+P: 2
+Q: 0
+R: 5
+S: 4
+T: 12
+U: 4
+V: 2
+W: 2
+X: 0
+Y: 1
+Z: 0
+Letter Frequency Counts in Descending Order:
+12
+10
+9
+8
+6
+5
+5
+4
+4
+4
+4
+4
+3
+3
+2
+2
+2
+2
+2
+1
+0
+0
+0
+0
+0
+0
+jrieger@cozi:~/cs223/Assignment2$ ./a.outgcc shout.c [25@./a.out < ~dkumar/cs223/Lab3/tse.txt[C[K[K[K[K[K[K[K[KAlice.txt 
+Letter Frequency Counts:
+A: 4410
+B: 804
+C: 1535
+D: 2365
+E: 6858
+F: 1153
+G: 1352
+H: 3214
+I: 3922
+J: 143
+K: 551
+L: 2311
+M: 1143
+N: 3643
+O: 4358
+P: 989
+Q: 96
+R: 3244
+S: 3216
+T: 5393
+U: 1687
+V: 409
+W: 1268
+X: 74
+Y: 1043
+Z: 34
+Letter Frequency Counts in Descending Order:
+6858
+5393
+4410
+4358
+3922
+3643
+3244
+3216
+3214
+2365
+2311
+1687
+1535
+1352
+1268
+1153
+1143
+1043
+989
+804
+551
+409
+143
+96
+74
+34
+jrieger@cozi:~/cs223/Assignment2$ exit
+exit
+
+Script done on 2023-09-26 20:06:29-04:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,20 @@
+Script started on 2023-10-02 16:18:46-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="109" LINES="13"]
+jrieger@lofi:~/cs223/Assignment3$ scp jrieger@goldengate.cs.brynmawr.edu:~dxu/handouts/cs340/project/brynmawr/data/Spring2004.csv /Users/thespicybeast/Downloads[C[C[C[C[C[C[9P*[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C151/lecs/2-2.pdf /Use[15Prs/thespicybeast/Downloads[A[C[C[C[C[C[C[C[30Pls ~dxu/handouts/cs340/project/brynmawr/data/
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pmore ~dxu/handouts/cs340/project/brynmawr/data[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls ~dxu/handouts/cs340/project/brynmawr/data/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscp jrieger@goldengate.cs.brynmawr.edu:~dxu/handouts/cs151/lecs/2-2.pdf /Users/thespicybeast/Downloads[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C340/project/brynmawr/data/*.csv /Users/thespicybeast/Downloads[C[C[C[C[C[C[9@Spring2004[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc sort.c 
+jrieger@lofi:~/cs223/Assignment3$ ./a.out
+TESTING SORTED
+0 1 2 3 4 5 6 7 8 9 
+sorted
+0 1 2 3 4 -9 6 7 8 9 
+unsorted
+
+TESTING SORTING
+1 8 4 2 9 3 6 5 10 7 
+sorted
+1 2 3 4 5 6 7 8 9 10 
+sorted
+jrieger@lofi:~/cs223/Assignment3$ exit
+exit
+
+Script done on 2023-10-02 16:19:02-04:00 [COMMAND_EXIT_CODE="0"]

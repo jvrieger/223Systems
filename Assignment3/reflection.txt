@@ -1,0 +1,10 @@
+Julia Rieger
+A3- sort.c
+10-2-23
+
+Reflection
+I thought this lab went well, the only issue I encourntered was messing 
+up the algorithm for insertion sort by forgetting to set pos to i-1.
+It was an easy fix and I got the program running quickly. Having the sorted()
+function from the start made debugging much easier because I could see the 
+internals of the array and know if the sort was working.

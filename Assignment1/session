@@ -1,0 +1,26 @@
+Script started on 2023-09-18 19:56:40-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+jrieger@tuna:~/cs223/Assignment1$ i[Kadd2=[K[K[K[K[K./add2
+Enter a number: 4
+Enter a number: 6
+4 + 6 = 10
+jrieger@tuna:~/cs223/Assignment1$ ./add2
+Enter a number: 10
+Enter a number: 14
+10 + 14 = 24
+jrieger@tuna:~/cs223/Assignment1$ ./adds
+Enter a number: 8
+Enter a number: 3
+Enter a number: 7
+Enter a number: 9
+Enter a number: 0
+Sum: 27
+jrieger@tuna:~/cs223/Assignment1$ ./calc
+Enter an operation: +
+Enter a number: 67
+Enter a number: 34
+67 + 34 = 101
+Enter an operation: 0
+Good-bye.jrieger@tuna:~/cs223/Assignment1$ exit
+exit
+
+Script done on 2023-09-18 19:59:35-04:00 [COMMAND_EXIT_CODE="0"]

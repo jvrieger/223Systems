@@ -1,0 +1,48 @@
+Script started on 2023-11-12 16:43:48-05:00 [TERM="xterm-256color" TTY="/dev/pts/12" COLUMNS="245" LINES="11"]
+jrieger@bolv:~/cs223/Assignment5$ ./a.out code.txt ls[K./a.outgcc task5.c cd cs223/Lab8[1Pgcc task5.c [5P./a.outls[K./a.out code.txt [K./a.out code.txt ls[K./a.outgcc task5.c cd cs223/Lab8ode buildSchedule.java [11Pd cs223/Lab8[1Pgcc task5.c [5P./a.outls[K./a.out code.txt [K./sear[K[K[K[K[K[Km[Kmake search
+gcc -c search.c
+gcc -o search airport.o search.o
+jrieger@bolv:~/cs223/Assignment5$ .[K./search code.txt 
+Able to open file code.txt.
+Reading data...done. [3376 airports!]
+Enter the three-letter code for an airport: B<C  MC
+Success: BMC - Brigham City
+Brigham City, UT (USA)
+Would you like to search again (Y/N)? Y
+Enter the three-letter code for an airport: 172
+Unsuccessful: 172 is not a known airport.
+Would you like to search again (Y/N)? Y
+Enter the three-letter code for an airport: 00M
+Success: 00M - Thigpen
+Bay Springs, MS (USA)
+Would you like to search again (Y/N)? Y
+Enter the three-letter code for an airport: TCS
+Success: TCS - Truth Or Consequences Municipal
+Truth Or Consequences, NM (USA)
+Would you like to search again (Y/N)? Y
+Enter the three-letter code for an airport: BUZ
+Unsuccessful: BUZ is not a known airport.
+Would you like to search again (Y/N)? Y
+Enter the three-letter code for an airport: 5A8
+Success: 5A8 - Aleknagik
+Aleknagik, AK (USA)
+Would you like to search again (Y/N)? y Y
+Enter the three-letter code for an airport: DAR
+Unsuccessful: DAR is not a known airport.
+Would you like to search again (Y/N)? Y
+Enter the three-letter code for an airport: ZZC V
+Success: ZZV - Zanesville Municipal
+Zanesville, OH (USA)
+Would you like to search again (Y/N)? Y
+Enter the three-letter code for an airport: 22M
+Success: 22M - Pontotoc County
+Pontotoc, MS (USA)
+Would you like to search again (Y/N)? Y
+Enter the three-letter code for an airport: PHL
+Success: PHL - Philadelphia Intl
+Philadelphia, PA (USA)
+Would you like to search again (Y/N)? N
+Goodbye!jrieger@bolv:~/cs223/Assignment5$ exit
+exit
+
+Script done on 2023-11-12 16:45:11-05:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,23 @@
+Script started on 2023-10-29 15:55:38-04:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="119" LINES="14"]
+jrieger@cozi:~/cs223/Assignment4$ /home/gtowell/bin/submit -c 245 -p 3 -d hw3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd ..[3Plscode iteratorsScript.txt ls[Kcode iteratorScript.txtls[Kscript iteratorsScript.txtls[Kcode iteratorScript.txtls[Kcode iteratorsScript.txt ls[Kcd ..[3Pls/home/gtowell/bin/submit -c 245 -p 3 -d hw3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgcc cipher.c 
+[01m[Kcipher.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[Kcipher.c:23:5:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kgets[m[K’; did you mean ‘[01m[Kfgets[m[K’? [[01;35m[K-Wimplicit-function-declaration[m[K]
+   23 |     [01;35m[Kgets[m[K(message);
+      |     [01;35m[K^~~~[m[K
+      |     [32m[Kfgets[m[K
+/usr/bin/ld: /tmp/ccXIkIH1.o: in function `main':
+cipher.c:(.text+0x3f): warning: the `gets' function is dangerous and should not be used.
+jrieger@cozi:~/cs223/Assignment4$ a[K./a.out 
+Enter message to be encrypted: Go ahead, make my day.
+Enter shift amount (1-25): 16
+Coded message encript1(): We qxuqt, cqau co tqo.
+Coded message encript2(): We qxuqt, cqau co tqo.
+jrieger@cozi:~/cs223/Assignment4$ ./a.out 
+Enter message to be encrypted: With great power comes great responsibility.
+Enter shift amount (1-25): 2
+Coded message encript1(): Ykvj itgcv rqygt eqogu itgcv tgurqpukdknkva.
+Coded message encript2(): Ykvj itgcv rqygt eqogu itgcv tgurqpukdknkva.
+jrieger@cozi:~/cs223/Assignment4$ exit
+exit
+
+Script done on 2023-10-29 15:56:25-04:00 [COMMAND_EXIT_CODE="0"]

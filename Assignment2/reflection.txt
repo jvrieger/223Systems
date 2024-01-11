@@ -1,0 +1,12 @@
+Name: Julia Rieger
+Date: 9/26/23
+Assignment 2 CS223 Reflection
+
+This assignment mostly went smoothly, I had the biggest issue with the sort instructions
+for the assignment for shout.c however. The assignment says to use the sort command, but
+after looking into the book for a sort command, all I could find was information on how
+to implement your own sorts, so I made a selection sort. For the mywc.c program I struggled
+with defining what a word was--was it just something divided by whitespace? What about words
+that end with punctuation or words that are seperated by dashes but not whitespace? Overall
+I was a little confused with the assignment instructions but the coding itself went smoothly.
+

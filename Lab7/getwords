@@ -1,0 +1,2 @@
+#!/bin/bash
+tr A-Z a-z < ~dkumar/cs223/Lab7/Alice.txt | tr [:punct:] " " | ./countWords | sort | uniq | sort > output.txt
